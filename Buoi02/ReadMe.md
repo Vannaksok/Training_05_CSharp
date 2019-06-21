@@ -6,6 +6,7 @@
 - Visual Studio: https://tinhte.vn/threads/download-visual-studio-2019-full-active.2958297/
 - MS SQL Server: https://www.microsoft.com/en-us/download/details.aspx?id=42299
 
+- Tài liệu: https://docs.microsoft.com/en-us/dotnet/csharp/
 ## 2. Kiểu dữ liệu
 
 ## 3. Các cú pháp cơ bản
