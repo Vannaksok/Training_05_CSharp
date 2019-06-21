@@ -1,0 +1,7 @@
+D:\Software\CSharp\Buoi02\Buoi02\Demo01\bin\Debug\Demo01.exe.config
+D:\Software\CSharp\Buoi02\Buoi02\Demo01\bin\Debug\Demo01.exe
+D:\Software\CSharp\Buoi02\Buoi02\Demo01\bin\Debug\Demo01.pdb
+D:\Software\CSharp\Buoi02\Buoi02\Demo01\obj\Debug\Demo01.csprojAssemblyReference.cache
+D:\Software\CSharp\Buoi02\Buoi02\Demo01\obj\Debug\Demo01.csproj.CoreCompileInputs.cache
+D:\Software\CSharp\Buoi02\Buoi02\Demo01\obj\Debug\Demo01.exe
+D:\Software\CSharp\Buoi02\Buoi02\Demo01\obj\Debug\Demo01.pdb

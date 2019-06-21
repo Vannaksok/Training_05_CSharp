@@ -6,7 +6,14 @@
 - Visual Studio: https://tinhte.vn/threads/download-visual-studio-2019-full-active.2958297/
 - MS SQL Server: https://www.microsoft.com/en-us/download/details.aspx?id=42299
 
-- Tài liệu: https://docs.microsoft.com/en-us/dotnet/csharp/
+- Tài liệu: 
+    - Microsoft: https://docs.microsoft.com/en-us/dotnet/csharp/
+    - Tutorial Point: https://www.tutorialspoint.com/csharp
 ## 2. Kiểu dữ liệu
+- Number: int, long, float, dounble ... 
+- String, char
+- Object: do develper định nghĩa
+- Boolean (True/False)
+- Tham khảo: https://www.tutorialspoint.com/csharp/csharp_data_types.htm
 
 ## 3. Các cú pháp cơ bản
