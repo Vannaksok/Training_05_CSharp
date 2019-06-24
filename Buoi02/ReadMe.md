@@ -1,4 +1,4 @@
-# Hướng dẫn ngôn ngữ C#
+# Hướng dẫn ngôn ngữ C# - Buổi 02
 
 ## 1. Cài đặt môi trường
 - Git: https://git-scm.com/download/win 
@@ -15,5 +15,3 @@
 - Object: do develper định nghĩa
 - Boolean (True/False)
 - Tham khảo: https://www.tutorialspoint.com/csharp/csharp_data_types.htm
-
-## 3. Các cú pháp cơ bản
